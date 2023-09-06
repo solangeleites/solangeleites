@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<h2> Hi, I’m Solange Leites <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <!--
 **solangeleites/solangeleites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
