@@ -2,7 +2,7 @@
 <h2> Hi, I’m Solange Leites <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 <div align="center">
-<h3> Soy Desarrolladora FullStack con pasión por el Backend 🤍 ></h2>
+<p> Soy Desarrolladora FullStack con pasión por el Backend 🤍</p>
 </div>
 
 
